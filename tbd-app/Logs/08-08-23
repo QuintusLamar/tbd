@@ -1,0 +1,5 @@
+I set up the app so that there will be buttons mapped from the buttonlist array in data.json. I'm thinking I want to work on creating a working version of the design in this figma project: https://www.figma.com/file/HoZod9exTE1YjbjznUdSyV/Main-App?type=design&node-id=0-1&mode=design&t=k3Jn9TBlyGnoBnOR-0
+
+The create-a-game minigame and the CSS designer will be more difficult to work on because I'll need to have the ability to add in an IDE of some kind
+
+Maybe I can develop a lot more minigames and make this a bit better
